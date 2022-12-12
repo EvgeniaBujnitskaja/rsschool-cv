@@ -18,6 +18,18 @@ My strength is the ability to clearly see the problem and solve it. I want to ge
 * Adobe Photoshop
 
 ## Code Example
+```
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <title>Мой первый проект</title>
+        <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+    </head>
+    <body>
+        <h1>Ура, я учусь!</h1>
+    </body>
+</html>
+```
 
 ## Education
 * **Belarusian State University** *(chemistry medicinal compounds)*
